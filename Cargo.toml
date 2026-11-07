@@ -1,0 +1,10 @@
+[package]
+name = "fiqh-rs-safar-qasr-distance"
+version = "1.0.0"
+edition = "2021"
+description = "Musafir Prayer Qasr & Jam' Distance Threshold Evaluator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "fiqh_rs_safar_qasr_distance"
+path = "main.rs"
